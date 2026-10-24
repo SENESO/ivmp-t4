@@ -1,0 +1,2 @@
+svr=GT,local:8888
+svr=IV,local:8888

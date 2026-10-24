@@ -4,9 +4,10 @@
 > IV:MP (IV Multiplayer) is the original work of the **IV-Multiplayer team**
 > (official site: <https://www.iv-mp.eu>). This repository is an independent
 > documentation/reference page maintained by SENESO. It does **not** claim
-> ownership of IV:MP, it is **not** affiliated with the IV-Multiplayer team,
-> and it does **not** redistribute the client binaries. Download the client
-> from the official sources linked below.
+> ownership of IV:MP, and it is **not** affiliated with the IV-Multiplayer team.
+> The original archive files are mirrored here for reference, with full
+> attribution; they remain the property of the IV-Multiplayer team. You can
+> also download the client from the official sources linked below.
 
 ## What this is
 
@@ -47,8 +48,11 @@ Top-level layout inside `IV-MP T4 for GTA IV 1.2.0.43/`:
     `ivmpGameLauncher.exe`, `bass.dll`, `binkw32.dll`, `clientLibs.dll`,
     `data.dll`, `xlive.dll`, `EFLC install.reg`, `Uninstall-IVMP.bat`
 
-No license file is included in the archive. The binaries are **not** included
-in this repository.
+The original archive files are mirrored in this repository under
+`IV-MP T4 for GTA IV 1.2.0.43/` for reference. They remain the property of the
+IV-Multiplayer team and are not covered by the MIT license in `LICENSE`
+(which covers only the documentation in this repository). No license file is
+included in the original archive.
 
 ## Relation to SENESO/ivmp-platform
 

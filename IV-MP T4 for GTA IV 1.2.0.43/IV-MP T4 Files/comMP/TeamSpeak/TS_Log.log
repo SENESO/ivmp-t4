@@ -1,0 +1,23 @@
+2019-09-26 19:23:05 INFO 448: TS Attached
+2019-09-26 19:23:05 INFO 281: TS Path: C:\Games\EFLC\comMP\TeamSpeak\, IP: 145.239.183.131
+2019-09-26 19:23:05 INFO 303: Error opening capture device: 2321
+2019-09-26 19:23:05 INFO 328: Client lib initialized and running
+2019-09-26 19:23:05 INFO 335: Client lib version: 3.0.4.4 [Build: 1527678360] SDK
+2019-09-26 19:23:05 INFO 66: Connect status changed: 1 1 0
+2019-09-26 19:23:06 INFO 344: Joining channel 3
+2019-09-26 19:23:06 INFO 347: Join channel fail
+2019-09-26 19:23:07 INFO 344: Joining channel 3
+2019-09-26 19:23:07 INFO 347: Join channel fail
+2019-09-26 19:23:08 INFO 344: Joining channel 3
+2019-09-26 19:23:08 INFO 347: Join channel fail
+2019-09-26 19:23:09 INFO 344: Joining channel 3
+2019-09-26 19:23:09 INFO 347: Join channel fail
+2019-09-26 19:23:10 INFO 344: Joining channel 3
+2019-09-26 19:23:10 INFO 347: Join channel fail
+2019-09-26 19:23:10 INFO 66: Connect status changed: 1 0 1797
+2019-09-26 19:23:10 INFO 72: Looks like there is no server running.
+2019-09-26 19:23:11 INFO 466: TS Deattach: 1
+2019-09-26 19:27:16 INFO 466: TS Deattach: 1
+2019-09-26 19:27:16 INFO 467: Exit: 1
+2019-09-26 19:27:17 INFO 493: Clear: 0
+2019-09-26 19:27:22 INFO 462: TS wasnt running

@@ -1,0 +1,67 @@
+#
+# LCC for EFLC 
+# NEW COLORS
+#
+col
+
+# ORANGE SHADES
+252,127,0,bright,orange		# 137 Pure Orange
+252,140,0,bright,orange		# 138 Computer Orange
+252,88,0,dark,orange		# 139 Pantone Orange
+252,117,56,dark,orange		# 140 Crayola Orange
+237,145,33,bright,orange	# 141 Carrot Orange
+252,159,0,bright,orange		# 142 Peel Orange
+232,97,0,-,orange			# 143 Naranja Orange
+252,117,24,-,orange			# 144 Pumpkin Orange
+252,90,29,-,orange			# 145 Giants Orange
+236,88,0,-,orange			# 146 Persimmon Orange
+196,98,16,-,orange			# 147 Alloy Orange
+191,87,0,dark,orange		# 148 Burnt Orange
+
+# LIME SHADES
+170,241,0,bright,green		# 149 Lemon Lime
+0,252,0,bright,green		# 150 Computer Lime
+113,251,0,bright,yellow		# 151 Wild Lime
+195,244,0,bright,yellow		# 152 Chartreuse Lime
+158,252,56,light,green		# 153 French Lime
+50,205,50,dark,green		# 154 Green Lime
+
+# PINK SHADES
+252,105,180,bright,pink		# 155 Hot Pink
+214,46,142,dark,pink		# 156 Dark Pink
+252,221,230,light,pink		# 157 Piggy Pink
+207,59,183,bright,pink		# 158 Pimpin' Pink
+226,104,153,-,pink			# 159 Vagina Pink
+
+
+# ELECTRIC BLUE SHADES
+0,201,240,bright,blue		# 160 Electric Blue
+3,96,150,dark,blue			# 161 Medium Electric Blue
+59,151,202,-,blue			# 162 Icehouse Electric Blue
+
+# PURPLE SHADES
+104,40,96,dark,purple		# 163 Palatinate Purple
+48,25,52,dark,purple		# 164 Dark Purple
+120,24,74,dark,purple		# 165 Pansy Purple
+112,41,99,dark,purple		# 166 Byzantium
+31,15,65,dark,purple		# 167 Bull Shadow Purple
+157,49,180,dark,purple		# 168 Bull Pearl Purple
+
+# MORE SILVER SHADES
+131,137,150,light,silver	# 169 Roman Silver
+149,167,203,light,silver	# 170 F1 Silver
+
+# MORE DARK GREEN SHADES
+23,22,21,dark,green			# 171 Eternity Green
+32,33,23,dark,green			# 172 Rangoon Green
+25,32,14,dark,green			# 173 Black Olive
+60,52,31,brown,green		# 174 Lisbon Brown
+59,60,54,dark,green			# 175 Kelp Green
+
+# CAR BLUE SHADES
+11,74,211,bright,blue		# 176 Estoril Blue
+13,99,204,light,blue		# 177 Scientific Blue
+15,76,188,bright,blue		# 178 Wangan Blue
+16,48,146,dark,blue			# 179 Deep Blue		
+
+end

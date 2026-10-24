@@ -1,0 +1,6 @@
+chat_font=Arial
+chat_line_height=1
+chat_quality=4
+chat_size=24
+myname=
+windowed=0

@@ -1,0 +1,22 @@
+<ini>
+	<device>e2</device>	
+	<content>
+		<name>The Ballad of Gay Tony</name>
+		<id>3</id>
+		<audiometadata>e2_radio.xml</audiometadata> 
+		<enabled />
+	</content>
+	<content>
+		<name>The Ballad of Gay Tony</name>
+		<id>4</id>
+		<episode>2</episode>
+		<datfile>ivmpHycontent.dat</datfile>
+		<audiometadata>e2_audio.xml</audiometadata>
+		<loadingscreens>pc/textures/loadingscreens.wtd</loadingscreens>
+		<loadingscreensdat>common\data\loadingscreens.dat</loadingscreensdat>
+		<loadingscreensingame>pc/textures/loadingscreens_ingame.wtd</loadingscreensingame>
+		<loadingscreensingamedat>common\data\loadingscreens_ingame.dat</loadingscreensingamedat>
+		<texturepath>pc/textures/</texturepath>
+		<!-- <enabled /> -->
+	</content>	
+</ini>
